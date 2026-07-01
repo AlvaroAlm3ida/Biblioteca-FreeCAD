@@ -1,6 +1,5 @@
-﻿/*
- A ponte entre entre o código C# e o banco de dados.
-*/
+﻿// A ponte entre entre o código C# e o banco de dados.
+
 
 using Microsoft.EntityFrameworkCore;
 using BibliotecaFreeCAD.Models;
